@@ -1,5 +1,3 @@
-# Program to demonstrate Merge Sort
-
 def merge_sort(ls):
     if len(ls) > 1:
         left_list = ls[:len(ls) // 2]
